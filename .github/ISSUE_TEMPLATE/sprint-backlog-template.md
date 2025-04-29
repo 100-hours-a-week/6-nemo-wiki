@@ -2,7 +2,7 @@
 name: Sprint-Backlog-Template
 about: 스프린트 백로그 템플릿
 title: ''
-labels: 스프린트 백로그
+labels: ''
 assignees: ''
 
 ---
@@ -10,7 +10,7 @@ assignees: ''
 ### Checklist
 - [ ] 제목에 [챕터] 기입 확인
 - [ ] Assignees 추가 확인
-- [ ] Projects(start_at, end_at) 설정 확인
+- [ ] Projects(start_at, end_at,Chapter, Branch, 스프린트) 설정 확인
 - [ ] Milestone 할당 확인
 - [ ] 추후 날짜 변동 시 수정 후 Comment 작성 (변동사유, 날짜)
 ## 스프린트 백로그
