@@ -2,7 +2,7 @@
 name: Weekly-Scrum-Template
 about: 위클리 스크럼 템플릿
 title: ''
-labels: 위클리 스크럼
+labels: ''
 assignees: ''
 
 ---
