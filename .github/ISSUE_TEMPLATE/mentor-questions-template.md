@@ -2,7 +2,7 @@
 name: Mentor-Questions-Template
 about: 멘토링 질문 템플릿
 title: ''
-labels: ''
+labels: "❔ 질문"
 assignees: ''
 
 ---
