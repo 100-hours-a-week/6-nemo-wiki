@@ -2,19 +2,16 @@
 name: Trouble-Shooting-Log-Template
 about: 트러블 슈팅 로그 템플릿
 title: ''
-labels: "\U0001F680 트러블 슈팅"
+labels: ''
 assignees: ''
 
 ---
 
-## 🐞 에러 내용
+## ❗️ Problem
 - 
 
-## 🔍 원인 분석
+## 🔍 Try
 - 
 
-## ✅ 해결 방법
-- 
-
-## 회고
+## ☑️ Result
 -
